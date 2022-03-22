@@ -1,4 +1,4 @@
-number = input("輸入一個數")
+number = 15693 #input("輸入一個數")
 # list all prime number from 1 to number
 prime_list = []
 for i in range(1, int(number)+1):
