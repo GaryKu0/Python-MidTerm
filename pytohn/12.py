@@ -1,4 +1,4 @@
-List=input("輸入一整數序列:").split(" ")
+List=['56','56','34','34','23']#input("輸入一整數序列:").split(" ")
 count={}
 Howmany=len(List)
 max=1 
@@ -11,6 +11,7 @@ for i in range(len(List)):
     if int(count[List[i]]) > max:
         max=int(List[i])
 mostnum=count[str(max)]
+
 if Howmany/2 <= mostnum:
     print ("過半元素:",max)
 else:
