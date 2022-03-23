@@ -2,7 +2,7 @@ from gettext import find
 
 
 matrix=input("請輸入陣列大小:")
-Matrix = [[0 for col in range(int(matrix))] for row in range(int(matrix))]
+
 AllNum=[]
 for i in range(int(matrix)):
     Matrix[i]=input("輸入Matrix為:").split(" ")
