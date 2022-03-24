@@ -11,4 +11,4 @@
 ### 然後隨便放了一個程式碼在這裡.w.
 ![Matrix](https://i.imgur.com/FkqjEIy.png)
 # **View On Github**
-(![GoToGitHub](https://i.imgur.com/YVQJsjT.png))[https://github.com/GaryKu0/Python-MidTerm]
+[![GoToGitHub](https://i.imgur.com/YVQJsjT.png)](https://github.com/GaryKu0/Python-MidTerm)
