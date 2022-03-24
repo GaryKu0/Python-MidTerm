@@ -5,4 +5,7 @@
 ![Matrix](https://i.imgur.com/HrSAk0P.png)
 -----------------------------
 ## 說明
-![!的用意](https://i.imgur.com/FhJYWQ1.gif)
+> 為甚麼檔案會有驚嘆號?❕
+![!的用意](https://i.imgur.com/RVcvArP.gif)
+> 為甚麼檔案會有叉叉?❌
+![X的用意](https://i.imgur.com/WNKDh5r.gif)
