@@ -6,6 +6,6 @@
 ### 為甚麼檔案會有驚嘆號?❕
 ![!的用意](https://i.imgur.com/BC2Aqfj.gif)
 ### 為甚麼檔案會有叉叉?❌
-![X的用意](https://i.imgur.com/Gg0M0L5.gif)
+![X的用意](https://i.imgur.com/pgkqvLs.gif)
 ### 然後隨便放了一個程式碼在這裡.w.
 ![Matrix](https://i.imgur.com/HrSAk0P.png)
